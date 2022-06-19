@@ -14,6 +14,5 @@ public class App {
         System.out.println(l1);
         l1.inserirInicio("Vieira");
         System.out.println(l1);
-        
     }
 }
